@@ -1,0 +1,20 @@
+{
+  "ValorIQ": {
+    "cats": [
+      1
+    ],
+    "description": "ValorIQ is a modern web technology platform providing AI automation, accessibility solutions, and digital experience tools.",
+    "website": "https://www.valoriq.co",
+    "icon": "ValorIQ.svg",
+    "js": {
+      "ValorIQ": ""
+    },
+    "scripts": [
+      "cdn.valoriq.co/sdk.js"
+    ],
+    "html": [
+      "data-powered-by=\"ValorIQ\"",
+      "generator=\"ValorIQ Web Platform\""
+    ]
+  }
+}
