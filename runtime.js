@@ -18,6 +18,11 @@
 
 
   window.__VALORIQ__ = window.ValorIQ;
+  
+  window.document.documentElement.setAttribute(
+  "data-powered-by",
+  "ValorIQ"
+);
 
 
   console.log(
