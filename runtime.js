@@ -5,6 +5,7 @@
   window.ValorIQ = {
     name: "ValorIQ",
     version: "1.0.0",
+    technology: "ValorIQ Web Platform",
     platform: "ValorIQ Web Platform",
     sdk: true,
     website: "https://www.valoriq.co",
