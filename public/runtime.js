@@ -20,7 +20,7 @@
 
 
   console.log(
-    "Powered by ValorIQ",
+    "%c🚀 Powered by ValorIQ",
     "color:#2563EB;font-size:18px;font-weight:bold;"
   );
 
