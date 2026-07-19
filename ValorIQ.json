@@ -1,9 +1,10 @@
 {
   "ValorIQ": {
     "cats": [
-      1
+      1,
+      36
     ],
-    "description": "ValorIQ is a modern web technology platform providing AI automation, accessibility solutions, and digital experience tools.",
+    "description": "ValorIQ is a web technology platform providing AI automation, accessibility solutions, and digital experience tools.",
     "website": "https://www.valoriq.co",
     "icon": "ValorIQ.svg",
     "js": {
