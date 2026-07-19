@@ -9,6 +9,7 @@
   window.ValorIQ = {
     name: "ValorIQ",
     version: "1.0.0",
+    release: "2026.07"
     technology: "ValorIQ Web Platform",
     platform: "ValorIQ Web Platform",
     sdk: true,
