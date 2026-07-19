@@ -10,7 +10,7 @@
       "ValorIQ": ""
     },
     "scripts": [
-      "cdn.valoriq.co/sdk.js"
+      "cdn.valoriq.co/v1/sdk.js"
     ],
     "html": [
       "data-powered-by=\"ValorIQ\"",
